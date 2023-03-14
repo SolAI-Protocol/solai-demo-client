@@ -1,0 +1,5 @@
+credentials/
+client_env/*
+__pycache__/
+myenv/
+scores/*
